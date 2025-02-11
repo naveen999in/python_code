@@ -17,9 +17,9 @@ AI-driven algorithms analyze market trends, detect fraudulent transactions, and 
 Self-driving cars use AI to process sensor data, recognize objects, and make real-time decisions to navigate 
 roads safely. AI-powered chatbots and virtual assistants enhance customer service by providing personalized 
 and instant responses."""
-dfdghaha
 
 print(len(s))
 print(len(s.split()))
+print(s.count('\n'))
 
 
