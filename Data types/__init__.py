@@ -1,0 +1,15 @@
+a=10
+print(type(a))
+print(a)
+b=20.3
+print(b)
+print(type(b))
+c=(2+4j)
+print(c)
+print(type(c))
+d=True
+print(d)
+print(type(d))
+e=None
+print(e)
+print(type(e))
